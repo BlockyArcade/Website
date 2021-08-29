@@ -7,6 +7,6 @@
 <a href="https://discord.gg/RSr2V4K">
 <img src="https://badgen.net/discord/members/RSr2V4K?icon=discord&label" alt="BlockyArcadeStudioDiscordOnline" width="100" height="50">
 </a>
-###
-# Blocky Arcade Studio's Website
-Web Address: https://blockyarcade.ga which now has been moved to https://blockyarcade.inquirynepal.com
+<h1> Blocky Arcade Studio's Website </h1>
+<hr>
+<p>Web Address: https://blockyarcade.ga which now has been moved to https://blockyarcade.inquirynepal.com</p>
