@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Latest%20Stable%20Version-2.5-informational" alt="BlockyArcadeStudioLatestStableVersion" width="200" height="25">
 </a>
 <a href="https://blockyarcade.inquirynepal.com">
-<img src="https://img.shields.io/badge/Latest%20Version-2.6%20BETA-success" alt="BlockyArcadeStudioLatestVersion" width="200" height="50">
+<img src="https://img.shields.io/badge/Latest%20Version-2.6%20BETA-success" alt="BlockyArcadeStudioLatestVersion" width="200" height="2">
 </a>
 <a href="https://discord.gg/RSr2V4K">
 <img src="https://badgen.net/discord/online-members/RSr2V4K?icon=discord" alt="BlockyArcadeStudioDiscordOnline" width="200" height="50">
