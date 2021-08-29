@@ -1,6 +1,6 @@
 [version]: https://api.bintray.com/packages/dv8fromtheworld/maven/JDA/images/download.svg
 [download]: https://bintray.com/dv8fromtheworld/maven/JDA/_latestVersion
-[discord-invite]: https://discord.gg/0hMr4ce0tIl3SLv5
+[discord-online]: https://badgen.net/discord/online-members/RSr2V4K?icon=discord
 [migration]: https://github.com/DV8FromTheWorld/JDA/wiki/0\)-Migrating-to-V4
 [jenkins]: https://ci.dv8tion.net/job/JDA
 [license]: https://github.com/DV8FromTheWorld/JDA/tree/master/LICENSE
